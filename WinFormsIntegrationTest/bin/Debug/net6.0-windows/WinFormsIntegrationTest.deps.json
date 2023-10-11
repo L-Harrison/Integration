@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsIntegrationTest/1.0.0": {
+        "dependencies": {
+          "Integration": "1.0.0",
+          "ZedGraph": "5.0.8.27682"
+        },
+        "runtime": {
+          "WinFormsIntegrationTest.dll": {}
+        }
+      },
+      "Integration/1.0.0": {
+        "runtime": {
+          "Integration.dll": {}
+        }
+      },
+      "ZedGraph/5.0.8.27682": {
+        "runtime": {
+          "ZedGraph.dll": {
+            "assemblyVersion": "5.0.8.27682",
+            "fileVersion": "5.0.8.27682"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsIntegrationTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Integration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZedGraph/5.0.8.27682": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

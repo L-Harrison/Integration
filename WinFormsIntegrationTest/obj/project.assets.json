@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Integration/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Integration.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Integration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integration/1.0.0": {
+      "type": "project",
+      "path": "../Integration/Integration.csproj",
+      "msbuildProject": "../Integration/Integration.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Integration >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zlx8w\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\DevExpress 21.1\\.NET Core Desktop Libraries\\Offline Packages": {},
+    "D:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "D:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\megarobo\\LTDT\\sc\\Integration\\Integration\\WinFormsIntegrationTest\\WinFormsIntegrationTest.csproj",
+      "projectName": "WinFormsIntegrationTest",
+      "projectPath": "E:\\megarobo\\LTDT\\sc\\Integration\\Integration\\WinFormsIntegrationTest\\WinFormsIntegrationTest.csproj",
+      "packagesPath": "C:\\Users\\zlx8w\\.nuget\\packages\\",
+      "outputPath": "E:\\megarobo\\LTDT\\sc\\Integration\\Integration\\WinFormsIntegrationTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\DevExpress 21.1\\.NET Core Desktop Libraries\\Offline Packages",
+        "D:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+        "D:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+        "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\zlx8w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Packages": {},
+        "D:\\Program Files (x86)\\DevExpress 20.1\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+        "D:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+        "D:\\Program Files (x86)\\DevExpress 21.1\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+        "D:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "D:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "D:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\megarobo\\LTDT\\sc\\Integration\\Integration\\Integration\\Integration.csproj": {
+              "projectPath": "E:\\megarobo\\LTDT\\sc\\Integration\\Integration\\Integration\\Integration.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

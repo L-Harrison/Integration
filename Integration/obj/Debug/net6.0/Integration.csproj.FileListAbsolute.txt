@@ -1,0 +1,12 @@
+D:\TestCode\Integration\Integration\bin\Debug\net6.0\Integration.deps.json
+D:\TestCode\Integration\Integration\bin\Debug\net6.0\Integration.dll
+D:\TestCode\Integration\Integration\bin\Debug\net6.0\Integration.pdb
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.csproj.AssemblyReference.cache
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.AssemblyInfoInputs.cache
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.AssemblyInfo.cs
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.csproj.CoreCompileInputs.cache
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.dll
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\refint\Integration.dll
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\Integration.pdb
+D:\TestCode\Integration\Integration\obj\Debug\net6.0\ref\Integration.dll
